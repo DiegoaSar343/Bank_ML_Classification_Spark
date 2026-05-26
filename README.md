@@ -1,4 +1,4 @@
-# 🏦 Bank Marketing Classification with PySpark ML
+#  Bank Marketing Classification with PySpark ML
 
 > **Big Data Processing · Pontificia Universidad Javeriana**  
 > **Author:** Diego Alejandro Sarmiento Rodriguez  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
